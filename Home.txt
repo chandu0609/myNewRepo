@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 What ever my first local repor , in remote first checkin
+=======
+What ever
+>>>>>>> parent of 20d4f6d... 2nd local repo
